@@ -1,0 +1,10 @@
+.navbar {
+  background-color: rgb(215, 215, 215);
+  padding: 10px;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
